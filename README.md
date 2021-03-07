@@ -3,3 +3,5 @@
 <h1 align="center"> Index </h1>
 
 1) Birthday Reminder Application in Python.
+2) Python program to check if year is a leap year or not.
+
