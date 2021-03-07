@@ -4,4 +4,5 @@
 
 1) Birthday Reminder Application in Python.
 2) Python program to check if year is a leap year or not.
+3) Program to check if a number is prime or not.
 
